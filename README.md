@@ -44,4 +44,5 @@ Liste des étudiants ayant réussi ce TP
 --------------------------------------
 
 
-* Sebastien Inion
+* Sebastien Inion,
+* Amrani Riyad.
