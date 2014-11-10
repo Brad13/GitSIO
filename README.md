@@ -45,4 +45,4 @@ Liste des étudiants ayant réussi ce TP
 
 
 * Sebastien Inion,
-* Alexis Maysonove.
+* Alexis Maysonove
