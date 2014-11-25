@@ -49,4 +49,5 @@ Liste des étudiants ayant réussi ce TP
 * Maëlys Crosnier
 * Alexis Maysonove
 * Amrani Riyad
-* Dazzan Edwin.
+* Dazzan Edwin
+* Launey Bradley.
